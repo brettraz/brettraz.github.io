@@ -1,7 +1,8 @@
-body {
-    img {width: 30px; height: 30px;}
+img {
+    height: 100; width: 100;
+}
     
-    }
+    
 head {
     font-size: 14px;
 }
