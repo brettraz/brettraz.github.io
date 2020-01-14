@@ -1,4 +1,7 @@
 body {
     img {width: 30px; height: 30px;}
-    {border-style: double;}
+    
     }
+head {
+    font-size: 14px;
+}
