@@ -1,0 +1,8 @@
+body {
+    background-color: crimson;
+    background-image: url("logo.jpg");
+    background-repeat: no-repeat;
+}
+h1 {color: blue;
+font-size: 80px;}
+img {width: 100px; height: 100px;}
