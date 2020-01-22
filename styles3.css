@@ -1,8 +1,11 @@
-img {
-    height: 100; width: 100;
+
+body img {
+    height: 300px; width: 300px; font-size: 40px;
 }
     
     
 head {
     font-size: 14px;
 }
+
+ p { font-size: medium;}
