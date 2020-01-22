@@ -9,3 +9,7 @@ head {
 }
 
  p { font-size: medium;}
+
+ body {
+     background-color: blue;
+ }
