@@ -1,5 +1,5 @@
 
-body img {
+img {
     height: 300px; width: 300px; font-size: 40px;
 }
     
@@ -13,3 +13,7 @@ head {
  body {
      background-color: blue;
  }
+
+.thick-border {
+    border-width: thick;
+}
