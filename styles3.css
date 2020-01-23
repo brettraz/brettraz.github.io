@@ -12,8 +12,12 @@ head {
 
  body {
      background-color: blue;
+     font-family: 'Bangers', cursive;
  }
 
 .thick-border {
     border-width: thick;
+}
+h1, h2 {
+    font-family: 'Playfair Display', serif;
 }
