@@ -1,17 +1,23 @@
 
 img {
     height: 300px; width: 300px; font-size: 40px;
-}
+    border-radius: 10px;
+    border-color: black;
     
-    
-head {
-    font-size: 14px;
-}
 
- p { font-size: medium;}
+
+}
+    
+    
+
+
+ p {
+     color: purple;
+     font-size: large;
+ }
 
  body {
-     background-color: blue;
+     background-color: rgb(0, 255, 64);
      font-family: 'Bangers', cursive;
  }
 
@@ -20,4 +26,9 @@ head {
 }
 h1, h2 {
     font-family: 'Playfair Display', serif;
+    background-color: blanchedalmond;
+    color: crimson;
 }
+
+.padding {padding-top: 20px;}
+
